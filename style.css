@@ -1,0 +1,24 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+    
+
+}
+.front-page{
+
+    height: 100cm;
+    background:#000000dc url('images/branches.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    background-blend-mode:darken ;
+   
+}
+
+.inside-caption{
+    text-align: end;
+   
+}
